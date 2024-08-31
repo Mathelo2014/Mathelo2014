@@ -1,4 +1,5 @@
 # 💫 About Me:
+Oi eu sou Marcelo Augusto.
 💬 Cursando Analise e Desenvolvimento de Sistemas<br>🔭 Sou estudando de Backend<br>🤝 Estou a procura de estágio<br>
 
 
